@@ -45,8 +45,7 @@ IIT2 IIT4 IIT6 IIT1 IIT5 IIT3 IIT7 IIT8 IIT9
 IIT2 IIT6 IIT4 IIT1 IIT5 IIT3 IIT7 IIT8 IIT9
 </p>
 </details>
-
-[Question Link]("https://www.hackerearth.com/challenges/college/test-draft-1-3172/problems/")
+[Question Link](https://www.hackerearth.com/challenges/college/test-draft-1-3172/problems/ "https://www.hackerearth.com/challenges/college/test-draft-1-3172/problems/")
 
 ```python
 def printing(arr, m, n):
