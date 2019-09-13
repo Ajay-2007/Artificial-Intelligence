@@ -1,3 +1,4 @@
+% Creating Knowledge Base
 Valuable(gold).
 female(jane).
 owns(jane, gold).
